@@ -18,7 +18,6 @@ jobs:
           node-version: 20
 
       - name: Build
-        working-directory: angular-press-hold-button-sample
         run: npm install && npm run build:prod
 
       - name: Deploy
