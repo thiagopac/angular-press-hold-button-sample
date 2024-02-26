@@ -1,0 +1,43 @@
+{
+  "hash": "69b9e46e",
+  "configHash": "174c7d83",
+  "lockfileHash": "a4f38c55",
+  "browserHash": "06307e6a",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "29f2d96b",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "caa8f706",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "fc0e5e44",
+      "needsInterop": false
+    },
+    "angular-press-hold-button": {
+      "src": "../../../../../node_modules/angular-press-hold-button/fesm2022/angular-press-hold-button.mjs",
+      "file": "angular-press-hold-button.js",
+      "fileHash": "71775c79",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-U2YI6PLN": {
+      "file": "chunk-U2YI6PLN.js"
+    },
+    "chunk-5AQ4OJRV": {
+      "file": "chunk-5AQ4OJRV.js"
+    },
+    "chunk-B5LUOZ3Q": {
+      "file": "chunk-B5LUOZ3Q.js"
+    }
+  }
+}
